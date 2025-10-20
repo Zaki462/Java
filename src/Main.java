@@ -13,7 +13,7 @@ public class Main {
 
         // Menampilkan pesan pembuka
         System.out.println("Halo! Program ini dibuat untuk latihan Git dan Java.");
-        System.out.print("Masukkan nama kamu: ");
+        System.out.print("Masukkan namaa kamu: ");
 
         // Mengambil input nama dari pengguna
         String nama = input.nextLine();
