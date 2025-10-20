@@ -8,7 +8,7 @@ public class Main {
 
         // Menampilkan judul program
         System.out.println("=======================================");
-        System.out.println("   Java Version Control Practice");
+        System.out.println("   Java Version Control Practicee");
         System.out.println("=======================================");
 
         // Menampilkan pesan pembuka
